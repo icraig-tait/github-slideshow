@@ -1,4 +1,6 @@
-0000-01-02-icraig-tait.md
-0000-01-02-icraig-tait.md
-0000-01-02-icraig-tait.md
-0000-01-02-icraig-tait.md
+---
+layout: slide
+title: "Welcome to our second slide!"
+---
+Your text
+Use the left arrow to go back!
